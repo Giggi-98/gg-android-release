@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "com.giggi.mangay",
+      "name": "Mangay",
+      "latest_version": "1.2.0",
+      "latest_version_code": 2,
+      "changelog": "- Download sequenziale (più stabile)\n- Fix aggiornamenti automatici\n- Miglioramenti grafici",
+      "download_url": "https://github.com/Giggi-98/gg-android-release/releases/download/v1.2.0/app-release.apk"
+    }
+  ]
+}
