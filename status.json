@@ -1,8 +1,8 @@
 {
-  "id": "anime_fix_405",
-  "message": "✅ Problema risolto! Il caricamento degli anime è tornato operativo. Buona visione! 🍿",
-  "type": "info",
-  "active": true,
-  "action_text": "DETTAGLI",
-  "action_url": "https://github.com/Giggi-98/gg-android-release/releases/latest"
+    "id":  "msg_202605112316",
+    "message":  "� una news di test!",
+    "type":  "info",
+    "active":  true,
+    "action_text":  "SCOPRI",
+    "action_url":  null
 }
