@@ -1,8 +1,8 @@
 {
-    "id":  "msg_202605112317",
-    "message":  "🚧 L\u0027app è in manutenzione programmata per il miglioramento dei server. Torneremo online a breve!",
-    "type":  "warning",
+    "id":  "msg_202605112320",
+    "message":  "Intercom Attivo! ?? Controlliamo le news ogni 5 minuti.",
+    "type":  "info",
     "active":  true,
-    "action_text":  "STATO SERVER",
-    "action_url":  "https://github.com/Giggi-98/gg-android-release/issues"
+    "action_text":  "SCOPRI",
+    "action_url":  "https://github.com/Giggi-98/Mangay"
 }
