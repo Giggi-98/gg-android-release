@@ -1,0 +1,8 @@
+{
+  "id": "critical_waf_error",
+  "message": "🚨 Errore Critico: Rilevato blocco WAF su alcuni provider. Il team è già al lavoro per il bypass.",
+  "type": "error",
+  "active": true,
+  "action_text": "ASSISTENZA",
+  "action_url": "https://t.me/tuocanaletelegram"
+}

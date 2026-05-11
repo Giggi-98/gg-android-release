@@ -1,0 +1,8 @@
+{
+  "id": "update_available_v410",
+  "message": "🚀 È disponibile una nuova versione di Byu con tantissime novità! Scaricala ora per non perderle.",
+  "type": "info",
+  "active": true,
+  "action_text": "AGGIORNA",
+  "action_url": "https://github.com/Giggi-98/gg-android-release/releases/latest"
+}
