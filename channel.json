@@ -1,0 +1,15 @@
+{
+    "posts": [
+        {
+            "id": "post_20260608120000",
+            "title": "Benvenuto nel Canale Byu! 📡",
+            "body": "Questo è il canale ufficiale di Byu. Qui pubblicheremo nuove versioni, manutenzioni, eventi e novità in anteprima. Tieni d'occhio la campanella in alto: ti avviseremo quando c'è qualcosa di nuovo!",
+            "date": "2026-06-08T12:00:00Z",
+            "image_url": null,
+            "type": "news",
+            "action_url": null,
+            "action_text": null,
+            "pinned": true
+        }
+    ]
+}
