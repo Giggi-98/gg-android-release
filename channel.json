@@ -1,6 +1,17 @@
 {
     "posts": [
         {
+            "id": "post_20260610011203",
+            "title": "Prossime Novità in Anteprima! 🔮",
+            "body": "Ecco uno spoiler delle fantastiche novità in arrivo nelle prossime versioni di Byu:\n\n🎬 Watch Party P2P: Guarda anime in tempo reale con i tuoi amici!\n⚡ Smart Skip: Salto automatico di sigle Opening ed Ending!\n🎨 GIF & Meme Maker: Esporta brevi clip dal video player!\n☁️ Sincronizzazione Cloud: Salva progressi e preferiti via WebDAV!\n📱 Widget Android: Riprendi subito la lettura dalla home!\n\nRimanete sintonizzati!",
+            "date": "2026-06-09T23:12:03Z",
+            "image_url": null,
+            "type": "news",
+            "action_url": null,
+            "action_text": null,
+            "pinned": false
+        },
+        {
             "id": "post_20260608120000",
             "title": "Benvenuto nel Canale Byu! 📡",
             "body": "Questo è il canale ufficiale di Byu. Qui pubblicheremo nuove versioni, manutenzioni, eventi e novità in anteprima. Tieni d'occhio la campanella in alto: ti avviseremo quando c'è qualcosa di nuovo!",
